@@ -2,4 +2,195 @@
   Colour Palette
   - Dark green: #060 - rgb(0, 100, 0)
   - Dark red: #600 - rgb(100, 0, 0)
+  - Light grey: #CCC - rgb(204,204,204)
+  - Light blue: #06F - rgb(0,102,255)
+  - White: #FFF - rgb(255,255,255)
+  - Dark grey: #333: - rgb(51,51,51)
+  - Grey: #666: - rgb(102,102,102)    
+  
  */
+ 
+
+
+html{
+	margin-top:5rem;
+}
+
+body{
+		background-image:url(../../../Desktop/ecommerce-website/%20images/old_map.png);
+		opacity: 80%;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl,
+blockquote, table, hr {
+  margin: 0 0 1.5rem;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	color: #030;
+}
+
+.yotta {
+  font-size: 3.5832rem;
+  line-height: 1.0204;
+}
+
+.zetta {
+  font-size: 2.9860rem;
+  line-height: 1.0047;
+}
+
+h1, .exa {
+  font-size: 2.4883rem;
+  line-height: 1.0173;
+  font-family: 'Coustard', serif;
+}
+
+h2, .peta {
+  font-size: 2.0736rem;
+  line-height: 1.0399;
+  font-family: 'Coustard', serif;
+}
+
+h3, .tera {
+  font-size: 1.7280rem;
+  line-height: 1.0308;
+  font-family: 'Coustard', serif;
+}
+
+h4, .giga {
+  font-size: 1.4400rem;
+  line-height: 1.0417;
+  font-family: 'Coustard', serif;
+}
+
+h5, .mega {
+  font-size: 1.2000rem;
+  line-height: 1.0156;
+  font-family: 'Coustard', serif;
+}
+
+h6, .kilo {
+  font-size: 1.0000rem;
+  line-height: 1.0313;
+  font-family: 'Coustard', serif;
+}
+
+small, .milli {
+  font-size: 0.8333rem;
+  line-height: 1.0125;
+}
+
+.micro {
+  font-size: 0.6944rem;
+  line-height: 1.0800;
+}
+
+p {
+	font-size: 1rem;
+	line-height: 1.0313;
+	font-family: 'Gudea', sans-serif;
+	color:#666;
+}
+
+ul {
+	font-size: 1rem;
+	line-height: 1.0313;
+	font-family: 'Gudea', sans-serif;
+	color:#666
+}
+
+ol {
+	font-size: 1rem;
+	line-height: 1.0313;
+	font-family: 'Gudea', sans-serif;
+	color:#666
+}
+
+dl {
+	font-size: 1rem;
+	line-height: 1.0313;
+	font-family: 'Gudea', sans-serif;
+	color:#666
+}
+
+dd {
+  font-size: 0.8333rem;
+  line-height: 1.0125;
+  color:#999
+}
+
+blockquote {
+  font-size: 0.6944rem;
+  line-height: 1.0800;
+  font-family: 'Coustard', serif;
+  color:#666;
+}
+
+hr {
+    border-top:2px dashed #666;
+}
+
+mark {
+	background-color:rgba(204,204,204,.8);
+	color:#666;
+}
+
+a,
+a:link {
+	font-style:italic;
+	color: #039;
+	text-decoration: none;
+	transition: all 200ms linear;
+}
+
+
+a:hover,
+a:focus,
+a:active {
+	color:#039;
+	border-bottom: 2px solid #039;
+}
+
+::selection {
+	background-color: #06F;
+	color: #fff;
+}
+
+table
+{
+border-collapse:collapse;
+}
+table,th, td
+{
+border: 1px solid #666;
+padding: 8px;
+}
+th
+{
+background-color:rgba(0,51,0,.5);
+color:#FFF;
+font-family: 'Gudea', Sans serif
+}
+
+tr:nth-child(even){
+	background-color:rgba(204,204,204,1);
+	color:#333;
+}
+
+tr:nth-child(odd){
+	background-color:#FFF;
+	color:#333;
+	
+}
+
+
+
+
+	
+	
+	
+
+
