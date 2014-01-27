@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.list-group {
+	list-style-type: none;
+}
+
+.list-group-item:before {
+	content: "";
+}
+
+.list-group-item {
+	display: block;	
+}
+
+.list-group-item-inline {
+	display: inline-block;
+}
+
+.box {
+	position: relative;
+	left: 0;
+}
+
+.box:hover {
+	transform: scale(1.5,1.5);
+}
+
+.ease-all{
+
+		transition: all 350ms ease-in-out;
+}
+
+section{
+	margin: 5rem 0 3rem;
+}
+	
+
