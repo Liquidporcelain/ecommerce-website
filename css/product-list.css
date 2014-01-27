@@ -1,3 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header {
+	background-image: linear-gradient(to bottom,#060, #030) ;
+}
+
