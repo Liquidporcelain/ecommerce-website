@@ -43,4 +43,11 @@ header{
 	overflow: auto;
 }
 
+.logo{
+	max-width:120px;
+	display: inline-block;
+	position:inherit;	
+
+	}
+
 
