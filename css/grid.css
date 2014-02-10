@@ -4,8 +4,11 @@
 }
 
 .unit {
-	background-color: #FFF;
 	float:left;
+}
+
+.unit-alt {
+	float:right;
 }
 
 .unit-small-1 {

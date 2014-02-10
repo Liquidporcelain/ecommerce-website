@@ -1,3 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header {
+	background-color:#060;
+	padding: 2rem;
+}
+
+
