@@ -1,0 +1,50 @@
+.grid {
+	border: 1px solid red;
+	overflow: hidden;
+}
+
+.unit {
+	background-color: #FFF;
+	float:left;
+}
+
+.unit-small-1 {
+	width: 100%;
+}
+
+.unit-small-1-2 {
+	width: 50%;
+}
+
+@media only screen and (min-width: 30em) {
+	
+	.unit-medium-1-3 {
+		width: 33.3333%;
+	}
+	
+	.unit-medium-1-2 {
+		width: 50%;
+	}
+	
+	.unit-medium-1 {
+		width: 100%;
+	}
+	
+
+
+@media only screen and (min-width: 50em) {
+	
+	.unit-large-1-3 {
+		width: 33.3333%;
+	}
+	
+	.unit-large-2-3 {
+	width: 66.6666%;
+}
+}
+
+
+
+
+
+
