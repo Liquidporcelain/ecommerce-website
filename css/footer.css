@@ -1,3 +1,22 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.logo{
+	max-width:60px;
+	display: inline-block;
+	position:inherit;
+}
+
+footer{
+	background-color:#030;
+}
+
+.badges{
+	padding:0.5rem;
+}
+
+p{
+	padding-bottom: 1rem;
+	padding-left: 1rem;
+}
+
