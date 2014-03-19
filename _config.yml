@@ -1,4 +1,5 @@
-<p>markdown: redcarpet</p>
-<p>baseurl: /inclass-ecommerce</p>
-<p>exclude: [README.md]</p>
+<pre>markdown: redcarpet 
+baseurl: /product-details 
+exclude: [README.md]</pre>
+<p>&nbsp;</p>
 
